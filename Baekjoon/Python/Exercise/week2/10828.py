@@ -1,3 +1,4 @@
+#22.03.25
 #실버4, 스택
 import sys
 n=int(sys.stdin.readline()) #명령의 수
