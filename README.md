@@ -4,8 +4,9 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abby0616)](https://solved.ac/abby0616)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin37&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-index | Month | Commit Count
+Week | Date | Commit Count
 ----- | ----- | -----
-1 | 2022-03 | ~ing
+1 | 22.03.18~24 | 6
+2 | 22.03.25~31 | ing
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
