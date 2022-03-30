@@ -1,10 +1,10 @@
+#2022.03.30
 #실버2, 균형잡힌 세상
 while(1):
     line=input()
     line_1=list(line)#이건 오류 방지용 리스트따로
     stack=[]
     temp=True
-    #big,small=0,0
     if(line=='.'):#종료조건 만족시
         break
     for i in line_1:
@@ -26,4 +26,3 @@ while(1):
         print("yes")
     else:
         print("no")
-    #print(line)
