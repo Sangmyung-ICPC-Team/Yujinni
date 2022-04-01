@@ -7,6 +7,7 @@
 Week | Date | Commit Count
 ----- | ----- | -----
 1 | 22.03.18~24 | 6
-2 | 22.03.25~31 | ing
+2 | 22.03.25~31 | 8
+3 | 22.4.1~7    | ing
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
