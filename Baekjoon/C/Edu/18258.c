@@ -1,4 +1,4 @@
-#2022.7.6 18258 큐 c
+//2022.7.6 18258 큐 c
 #include <stdio.h>
 #include <string.h>
 int main(void){
