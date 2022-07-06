@@ -1,4 +1,4 @@
-#2022.7.6 10828 스택 c
+//2022.7.6 10828 스택 c
 #include <stdio.h>
 #include <string.h>
 int main(void){
