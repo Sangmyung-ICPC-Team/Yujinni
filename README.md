@@ -5,10 +5,10 @@
 
 ## SCV 활동 폴더 종류
 *  Baekjoon 
-  *  C/Edu (활동시 활용했던 문제)
-  *  Python
-     *  Edu (활동 및 동아리 내 대회 등 문제 정리)
-     *  Exercise (개인적으로 풀었던 문제 정리)
+   *  C/Edu (활동시 활용했던 문제)
+   *  Python
+      *  Edu (활동 및 동아리 내 대회 등 문제 정리)
+      *  Exercise (개인적으로 풀었던 문제 정리)
 *  LeetCode
 *  PPT (활동 시 제작한 PPT)
 
